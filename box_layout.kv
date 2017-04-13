@@ -1,0 +1,19 @@
+BoxLayout:
+    orientation: 'vertical'
+#    orientation: 'horizontal'
+    Button:
+        text: 'Clear'
+        on_press: app.clear_handle_pressed()
+
+
+
+    TextInput:
+        id: input_name
+        text: ''
+    Button:
+        text: 'Greet'
+        on_press: app.great_handle_pressed()
+    Label:
+        id: output_text
+        text: "A test"
+        color: (1, 1, 0, 1)
