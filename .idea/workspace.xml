@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7164ef68-4594-4e55-bf0f-ef79794303f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Prac6.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/box_layout.kv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/box_layout_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/id_demo.kv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/id_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/miles_kivvy.kv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/miles_to_kilometers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/popup_demo.kv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/popup_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/squaring.kv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/squaring.py" />
-    </list>
+    <list default="true" id="7164ef68-4594-4e55-bf0f-ef79794303f6" name="Default" comment="" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -575,12 +560,19 @@
       <option name="project" value="LOCAL" />
       <updated>1492056495887</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Prac finished">
+      <created>1492056982958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1492056982958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="854" height="1027" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22195704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
